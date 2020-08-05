@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![justxz's github stats](https://github-readme-stats.vercel.app/api?username=justxz&show_icons=true&theme=radical) 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=justxz&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+### Hello 👋
+
+> Keep learning.
+
+🇨🇳 China Beijing・🕹Web developer
+
+https://unote.cn
